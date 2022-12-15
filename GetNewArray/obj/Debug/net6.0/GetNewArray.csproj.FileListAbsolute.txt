@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\bin\Debug\net6.0\GetNewArray.exe
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\bin\Debug\net6.0\GetNewArray.deps.json
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\bin\Debug\net6.0\GetNewArray.runtimeconfig.json
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\bin\Debug\net6.0\GetNewArray.dll
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\bin\Debug\net6.0\GetNewArray.pdb
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\obj\Debug\net6.0\GetNewArray.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\obj\Debug\net6.0\GetNewArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\obj\Debug\net6.0\GetNewArray.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\obj\Debug\net6.0\GetNewArray.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\obj\Debug\net6.0\GetNewArray.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\obj\Debug\net6.0\GetNewArray.dll
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\obj\Debug\net6.0\refint\GetNewArray.dll
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\obj\Debug\net6.0\GetNewArray.pdb
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\obj\Debug\net6.0\GetNewArray.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GB ДЗ\Final project\GetNewArray\obj\Debug\net6.0\ref\GetNewArray.dll
